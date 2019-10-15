@@ -2,7 +2,7 @@
   "name": "platzi-music",
   "description": "App curso Vue.js de Platzi",
   "version": "1.0.0",
-  "author": "Ignacio Anaya <ignacio.anaya89@gmail.com>",
+  "author": "Luis Navarro",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
